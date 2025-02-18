@@ -1,4 +1,4 @@
-module github.com/chrede88/qubtTemplate
+module github.com/Tirexxploner/qubt
 
 go 1.24.0
 
